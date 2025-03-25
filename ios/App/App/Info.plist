@@ -62,6 +62,6 @@
     <key>NSUserTrackingUsageDescription</key>
     <string>يتم استخدام الإشعارات لتقديم تحديثات مباشرة ومعلومات هامة.</string>
     <key>aps-environment</key>
-    <string>development</string>
+    <string>production</string>
 </dict>
 </plist>
